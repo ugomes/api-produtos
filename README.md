@@ -49,14 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
    npm install
    ```
 
-4. **Crie o arquivo de variáveis de ambiente:**
-   Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
-   ```
-   JWT_SECRET=seu-segredo-super-secreto-aqui
-   ```
-   **Importante**: Substitua `seu-segredo-super-secreto-aqui` por uma string aleatória e segura.
-
-5. **Execute a aplicação:**
+4. **Execute a aplicação:**
 
    - **Modo de Desenvolvimento** (com auto-reload a cada alteração):
      ```bash
