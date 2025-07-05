@@ -1,6 +1,6 @@
 # API de Produtos
 
-Esta é uma API RESTful para gerenciamento de produtos, desenvolvida com Node.js e Express. O projeto inclui um CRUD completo, utiliza um banco de dados em memória para simplicidade e oferece documentação interativa com Swagger.
+Esta é uma API RESTful para gerenciamento de produtos, desenvolvida com Node.js e Express. O projeto inclui um CRUD completo, utiliza um banco de dados em memória para simplicidade e oferece documentação interativa com Swagger. Use-a para treinar os teste de API
 
 ## ✨ Features
 
