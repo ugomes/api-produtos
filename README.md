@@ -62,12 +62,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
      ```bash
      npm run dev
      ```
-
-   - **Modo de Produção:**
-     ```bash
-     npm start
-     ```
-
+ 
 O servidor estará disponível em `http://localhost:3000`.
 
 ## 📚 Documentação da API (Swagger)
