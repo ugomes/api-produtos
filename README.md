@@ -86,4 +86,4 @@ A partir da interface do Swagger, você pode visualizar e testar todos os endpoi
 
 ---
 
-Este projeto está sob a licença ISC.
+
